@@ -45,3 +45,8 @@ Keith Packard
 keithp@keithp.com
 
 
+compile manuly
+
+	autoconf
+	autoreconf --install
+	./configure
